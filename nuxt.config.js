@@ -4,8 +4,8 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   
   head: {
-    titleTemplate: '%s - 200-a1',
-    title: '200-a1',
+    titleTemplate: '%s - 200-a3',
+    title: '200-a3',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },

@@ -1,6 +1,6 @@
 ---
 title: A blog post
-date: 2021-22-11
+date: 
 description: Coding in Vue
 image: /assets/images/cry.jpg
 tags:

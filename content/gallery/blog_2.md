@@ -1,6 +1,6 @@
 ---
 title: A blog post
-date: 2021-11-18T21:59:16.433Z
+date: 
 description: Netlify
 image: /assets/images/cry.jpg
 tags:

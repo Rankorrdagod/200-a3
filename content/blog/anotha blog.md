@@ -1,6 +1,6 @@
 ---
 title: A new blog post
-date: 11-24-2021
+date: 
 description: Coding in Vue
 image: /assets/images/Michael-Jordan.jpg
 tags:

@@ -1,20 +1,21 @@
 <template>
   <v-main>
-    <v-container>
+    <article>
       <h2>{{ post.title }}</h2>
       <p>{{ post.description }}</p>
-       <nuxt-img :src="post.image" sizes="sm:100vw md:50vw lg:400px" />
+      <nuxt-img :src="post.image" sizes="sm:100vw md:50vw lg:600px" />
       <nuxt-content :document="post" />
-    </v-container>
+    </article>
   </v-main>
 </template>
+
 <script>
 export default {
   async asyncData({ $content, params, error }) {
     try {
-      const post = await $content(`blog/${params.slug}`).fetch();
+      const post = await $content(`gallery/${params.slug}`).fetch();
       return {
-        post,
+       post,
       };
     } catch (error) {
       error("No article found");

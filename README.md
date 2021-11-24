@@ -1,11 +1,7 @@
-# 200-a1
-- https://github.com/Rankorrdagod/200-a1
-- [Netlify](https://619bcf77e713b5000798b615--laughing-yonath-7b290e.netlify.app/)
+# 200-a3
+- https://github.com/Rankorrdagod/200-a3
 ## Issues
-- Had a BUNCH of issues at the beginning and fell behind in class, eventually got them sorted out (frustrating issues with git and netlify)
-- Going back through the class notes helped, it was a little confusing to know what order to do things in but I basically just prayed and it worked.
-- Still confused about how to actually show pages and use templates appropriately.
-- While I assume this is easier than using things like Heroku im still generally confused...
+
 
 ## Build Setup
 

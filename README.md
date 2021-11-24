@@ -1,6 +1,6 @@
 # 200-a3
 - https://github.com/Rankorrdagod/200-a3
-(Netlify)[https://619ea64ed7c7010008f9048a--200-a3.netlify.app/]
+- [Netlify](https://200-a3.netlify.app/)
 ## Issues
 Had trouble pushing to netlify... tried a bunch of different paths besides dist before finally running yarn generate again, which then populated the dist and made everything work, have to remember to do that before pushing to netlify even if everything is working locally.
 

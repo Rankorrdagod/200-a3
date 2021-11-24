@@ -81,7 +81,7 @@ export default {
           to: "/blog",
         },
         {
-          icon: "mdi-image-multiple-outline",
+          icon: "mdi-image-outline",
           title: "Gallery Posts",
           to: "/gallery",
         },
